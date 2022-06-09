@@ -4,6 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Resources
 
-This project is a recreation of a functional component of a testimonial card from a past student of [FreeCodeCamp](www.freecodecamp.org)
+This project is a recreation of a functional component of a testimonial card from a past student of [FreeCodeCamp](https://www.freecodecamp.org)
 
 This project was made following [this tutorial](https://www.youtube.com/watch?v=6Jfk8ic3KVk)
